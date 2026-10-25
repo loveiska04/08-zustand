@@ -1,7 +1,7 @@
 //app/notes/action/create/page.tsx
 import NoteForm from '@/components/NoteForm/NoteForm';
 import { Metadata } from 'next';
-import css from './CreateNote.module.css';
+import css from '../CreateNote.module.css';
 
 export const metadata: Metadata = {
   title: 'NoteHub - Your Digital Note-Taking App',
